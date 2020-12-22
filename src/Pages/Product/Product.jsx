@@ -1,11 +1,13 @@
 import Header from '../../Components/Header/Header'
+import Footer from '../../Components/Footer/Footer'
 
 function Product () {
 
   return (
     <>
       <Header />
-      product
+      <h1>Product</h1>
+      <Footer />
     </>
   )
 

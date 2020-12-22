@@ -8,10 +8,10 @@ function Footer () {
                <div class="row">
                   <div class="col-md-6 offset-md-3">
                      <ul class="sociel">
-                        <li> <a href="/"><i class="fa fa-facebook-f"></i></a></li>
+                        <li> <a href="/"><i class="fa fa-facebook"></i></a></li>
                         <li> <a href="/"><i class="fa fa-twitter"></i></a></li>
                         <li> <a href="/"><i class="fa fa-instagram"></i></a></li>
-                        <li> <a href="/"><i class="fa fa-instagram"></i></a></li>
+                        <li> <a href="/"><i class="fa fa-github"></i></a></li>
                      </ul>
                   </div>
                 </div>

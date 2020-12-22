@@ -1,11 +1,13 @@
 import Header from '../../Components/Header/Header'
+import Footer from '../../Components/Footer/Footer'
 
 function About () {
 
   return (
     <>
       <Header />
-      about
+      <h1>About</h1>
+      <Footer />
     </>
   )
 
