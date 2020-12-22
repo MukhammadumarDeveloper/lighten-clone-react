@@ -24,42 +24,42 @@ function ServiceProcess() {
             <div class="row">
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                   <div class="service-box">
-                     <i><img src={Service1} /></i>
+                     <i><img src={Service1} alt="icon"/></i>
                      <h3>Fast service</h3>
                      <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea </p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                   <div class="service-box">
-                     <i><img src={Service2} /></i>
+                     <i><img src={Service2} alt="icon"/></i>
                      <h3>Secure payments</h3>
                      <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea </p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                   <div class="service-box">
-                     <i><img src={Service3} /></i>
+                     <i><img src={Service3} alt="icon"/></i>
                      <h3>Expert team</h3>
                      <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea </p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                   <div class="service-box">
-                     <i><img src={Service4} /></i>
+                     <i><img src={Service4} alt="icon"/></i>
                      <h3>Affordable services</h3>
                      <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea </p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                   <div class="service-box">
-                     <i><img src={Service5} /></i>
+                     <i><img src={Service5} alt="icon"/></i>
                      <h3>90 Days warranty</h3>
                      <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea </p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                   <div class="service-box">
-                     <i><img src={Service6} /></i>
+                     <i><img src={Service6} alt="icon"/></i>
                      <h3>Award winning</h3>
                      <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea </p>
                   </div>

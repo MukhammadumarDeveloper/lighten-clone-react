@@ -27,34 +27,34 @@ function ChooseUs () {
             <div class="row">
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
-                     <i><img src={Icon1} /></i>
+                     <i><img src={Icon1} alt="icon"/></i>
                      <h3>Data recovery</h3>
                      <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
                   </div>
                </dir>
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
-                     <i><img src={Icon2} /></i>
+                     <i><img src={Icon2} alt="icon"/></i>
                      <h3>Computer repair</h3>
                      <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
                   </div>
                </dir>
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
-                     <i><img src={Icon3}/></i>
+                     <i><img src={Icon3} alt="icon"/></i>
                      <h3>Mobile service</h3>
                      <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
                   </div>
                </dir>
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
-                     <i><img src={Icon4} /></i>
+                     <i><img src={Icon4} alt="icon"/></i>
                      <h3>Network solutions</h3>
                      <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
                   </div>
                </dir>
                <div class="col-md-12">
-                  <a class="read-more">Read More</a>
+                  <a class="read-more" href="/">Read More</a>
                </div>
             </div>
          </div>
