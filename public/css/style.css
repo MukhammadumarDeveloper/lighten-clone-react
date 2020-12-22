@@ -1137,10 +1137,6 @@ nav.main-menu {
 	vertical-align: middle;
 }
 
-.main-menu ul>li:nth-child (6) {
-	padding-right: 0px;
-}
-
 .nav>li {
 	position: inherit;
 	display: inline-block;
@@ -1155,8 +1151,6 @@ nav.main-menu {
 	right: 0;
 	padding: 15px 0px;
 }
-
-.sub-full {}
 
 .simple-down {
 	padding: 15px;
@@ -1645,7 +1639,6 @@ padding: 7px 41px !important;
 margin-top: 18px;
 border-radius: 5px;
 display: inline-block;
-float: right;
 }
 
 .buy:hover {

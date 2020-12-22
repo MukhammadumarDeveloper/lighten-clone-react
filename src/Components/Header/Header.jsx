@@ -51,7 +51,7 @@ function Header () {
                </div>
 
                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2">
-                  <li><a class="buy" href="#">Login</a></li>
+                  {/* <li><a className="buy" href="#">Login</a></li> */}
                </div>
           </div>
         </div>
