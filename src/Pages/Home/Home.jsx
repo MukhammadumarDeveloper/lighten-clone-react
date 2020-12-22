@@ -13,6 +13,7 @@ import Map from '../../Assets/images/mapimg.jpg'
 import Header from '../../Components/Header/Header'
 import ChooseUs from '../../Components/ChooseUs/ChooseUs'
 import ServiceProcess from '../../Components/ServiceProcess/ServiceProcess'
+import Footer from '../../Components/Footer/Footer'
 
 function Home () {
 
@@ -243,6 +244,8 @@ function Home () {
             <img src={Map} alt="img"/>
          </div>
       </div>
+
+      <Footer />
     </>
   )
 
