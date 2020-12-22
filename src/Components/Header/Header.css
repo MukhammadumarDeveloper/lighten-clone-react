@@ -1,0 +1,8 @@
+.nav-btn {
+  background: none;
+  transition: color 0.3s ease;
+}
+
+.nav-btn:hover {
+  color: #ffc221;
+}

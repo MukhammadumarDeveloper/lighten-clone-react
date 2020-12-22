@@ -1045,7 +1045,7 @@ nav.main-menu {
 }
 
 .main-menu ul>li button {
-	padding: 30px 23px 0 23px;
+	margin: 30px 23px 0 23px;
 	line-height: 20px;
 	font-size: 16px;
 	display: block;
@@ -1806,15 +1806,16 @@ margin-top: 20px;
 
 .read-more  {
 	width: 190px;
-margin: 0 auto;
-background: #fff;
-display: block;
-border: #f9be20 solid 2px;
-text-align: center;
-padding: 10px 0px;
-color: #0a0401 !important;
-font-size: 20px;
-margin-top: 40px;
+	margin: 0 auto;
+	background: #fff;
+	display: block;
+	border: #f9be20 solid 2px;
+	text-align: center;
+	padding: 10px 0px;
+	color: #0a0401 !important;
+	font-size: 20px;
+	margin-top: 40px;
+	cursor: pointer;
 }
 .read-more:hover {
 	background: #f9be20;
