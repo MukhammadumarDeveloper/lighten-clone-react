@@ -453,15 +453,6 @@ a.readmore_bt {
 	text-align: center;
 }
 
-.logo {
-	float: left;
-}
-
-nav.main-menu {
-	float: right;
-	margin-left: 0;
-}
-
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
 	color: #ffc221;
@@ -1633,48 +1624,12 @@ input[type="radio"] .styled:checked+label::after {
 ---------------------------------------------------------------------*/
 
 
-.buy {
-background: #ffc221;
-padding: 7px 41px !important;
-margin-top: 18px;
-border-radius: 5px;
-display: inline-block;
-}
-
-.buy:hover {
-	color: #fff;
-}
-
-.head_top {background: #ffc221;
-margin-bottom: 35px;
-}
-ul.sociel_link {
-	display: flex;
-flex-wrap: wrap;
-justify-content: center;
-margin: 0 auto;
-float: left;
-}
-
 .top-box p {
 	float: right;
 	padding-top: 10px;
     color: #000;
 }
-ul.sociel_link li {
-	display: inline-block;
-}
 
-ul.sociel_link li a {
-color: #000;
-width: 50px;
-height: 50px;
-float: left;
-text-align: center;
-line-height: 50px;
-border-radius: 100%;
-font-size: 18px;
-}
 .header {
 	background: #fff;
 	padding-bottom: 35px;

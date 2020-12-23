@@ -1,3 +1,53 @@
+.head_top {
+  padding: 5px 0;
+  background: #ffc221;
+}
+
+.social-links {
+	display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.social__link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  margin: 0 5px;
+  color: #000;
+  border-radius: 50%;
+  font-size: 18px;
+}
+
+.social__link:hover {
+  color: #ffc221;
+  background-color: #000;
+}
+
+.site-header__bottom {
+  padding: 10px;
+}
+
+.main-menu {
+	float: right;
+	margin-left: 0;
+}
+
+.logo {
+	float: left;
+}
+
+.logo:hover {
+  opacity: 0.7;
+}
+
+.logo:active {
+  opacity: 0.5;
+}
+
 .nav-btn {
   background: none;
   transition: color 0.3s ease;
@@ -5,4 +55,18 @@
 
 .nav-btn:hover {
   color: #ffc221;
+}
+
+.buy {
+  background: #ffc221;
+  padding: 7px 41px;
+  margin-top: 18px;
+  border-radius: 5px;
+  display: inline-block;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+  
+.buy:hover {
+  color: #fff;
 }
