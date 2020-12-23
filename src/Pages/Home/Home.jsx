@@ -14,6 +14,7 @@ import Header from '../../Components/Header/Header'
 import ChooseUs from '../../Components/ChooseUs/ChooseUs'
 import ServiceProcess from '../../Components/ServiceProcess/ServiceProcess'
 import Footer from '../../Components/Footer/Footer'
+import './Home.css'
 
 function Home () {
 
@@ -169,12 +170,13 @@ function Home () {
               </div>
             </div>
           </div>
+          <div id="client_slider" class="carousel slide banner_Client" data-ride="carousel">
 
-          {/* <ol class="carousel-indicators">
+          <ol class="carousel-indicators">
             <li data-target="#client_slider" data-slide-to="0" class="active"></li>
             <li data-target="#client_slider" data-slide-to="1"></li>
             <li data-target="#client_slider" data-slide-to="2"></li>
-          </ol> */}
+          </ol>
 
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -217,6 +219,7 @@ function Home () {
               </div>
             </div>
         </div>
+      </div>
 
       </div>
       </div> 

@@ -1899,24 +1899,6 @@ margin-top: 20px;
 	color: #fff;
 }
 
-
-.Clients_bg_white {
-	background:#ffffffbd;
-	margin-top: 6px;
-	padding-bottom: 40px;
-}
-
-.Clients_bg_white .title {
-	text-align: left;
-	padding-bottom: 30px;
-}
-.Clients_bg_white .title h3 {
-	color: #030000;
-	font-size: 50px;
-	line-height: 50px;
-	padding-top: 40px;
-}
-
 .banner_Client {
 	position: relative;
 }
