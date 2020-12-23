@@ -159,7 +159,7 @@ function Home () {
             </div>
           </div>
         </div>
-      </div>
+      
 
       <div class="Clients_bg_white">
         <div class="container">
@@ -222,7 +222,8 @@ function Home () {
       </div>
 
       </div>
-      </div> 
+      </div>
+      
 
 
 
@@ -243,7 +244,7 @@ function Home () {
           </div>
         </div>
       </div>
-
+      </div>
 
       <div class="container-fluid padi">
          <div class="map">

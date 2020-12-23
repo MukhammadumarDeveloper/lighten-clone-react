@@ -1,3 +1,15 @@
+.product-bg {
+	background: url('../../Assets/images/bg.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.product-bg-white {
+	background: #ffffffbd;
+	box-shadow: #00000040 0px 0px 25px 0px;
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+
 .Clients_bg_white {
   position: relative;
 	background:#ffffffbd;
